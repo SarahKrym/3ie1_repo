@@ -10,6 +10,8 @@
 - Interests:
  1. Board Games
  2. Intramural volleyball
+ 3. Craft Beer
+ 4. The Tragically Hip
  
  For more info on John [click this link!](https://en.wikipedia.org/wiki/John)
 ![A pic of John](http://www.nationalarchives.gov.uk/wp-content/uploads/2016/01/John-Sheridan1.jpg)
